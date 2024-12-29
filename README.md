@@ -29,10 +29,8 @@ The study involves analyzing various indexing strategies and query optimization 
 - Partitioning data based on query patterns improves retrieval speeds.
 - A combination of indexing and partitioning yields the best performance results.
 
-## License
-
-This work is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
 For any questions or discussions related to this paper, feel free to reach out via GitHub issues or email.
+saagarcourses@gmail.com
