@@ -1,6 +1,6 @@
 # Efficient Query Processing in Column Family Database
 
-This repository contains the technical paper and related materials on efficient query processing in Column Family Databases. The paper explores strategies to optimize query performance, focusing on techniques like indexing, query optimization, and data partitioning.
+
 
 ## Abstract
 
