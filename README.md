@@ -47,5 +47,5 @@ I also want to thank those online papers and resources that allowed me to obtain
 
 ## Contact
 
-For any questions or discussions related to this paper, feel free to reach out via GitHub issues or email @ saagarcourses@gmail.com
+For any questions or discussions related to this paper, feel free to reach out via GitHub or email @ saagarcourses@gmail.com
 
